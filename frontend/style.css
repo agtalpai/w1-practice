@@ -1,0 +1,14 @@
+body {
+    background-color:bisque;
+    font-family: 'Montserrat', sans-serif;
+    color:firebrick;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+div {
+    font-weight: 400;
+    font-size: 80px;
+}
